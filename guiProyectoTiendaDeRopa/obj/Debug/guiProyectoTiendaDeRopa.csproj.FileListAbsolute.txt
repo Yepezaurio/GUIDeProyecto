@@ -1,0 +1,17 @@
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe.config
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.pdb
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csprojResolveAssemblyReference.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Clientes.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProveedor.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Properties.Resources.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.GenerateResource.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.CoreCompileInputs.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.exe
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.pdb
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Compras.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProducto.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Ventas.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesClientes.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesProveedores.resources
+C:\Users\Mauricio Yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Form1.resources
