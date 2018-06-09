@@ -69,5 +69,11 @@ namespace guiProyectoTiendaDeRopa
         {
             Close();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Form mostrarCliente = new MostrarClientes();
+            mostrarCliente.Show();
+        }
     }
 }

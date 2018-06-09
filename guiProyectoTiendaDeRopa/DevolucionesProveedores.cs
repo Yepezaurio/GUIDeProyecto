@@ -26,5 +26,10 @@ namespace guiProyectoTiendaDeRopa
         {
             Close();
         }
+
+        private void DevolucionesProveedores_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
